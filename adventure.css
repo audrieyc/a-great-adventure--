@@ -19,7 +19,7 @@ a:hover {
     column-count: 3;
     column-width: 30%;
     column-gap: 5px;
-    column-rule-style: solid;
+    column-rule: 1px solid rgb(182, 192, 210);
     box-sizing: border-box;
 }
 
